@@ -10,8 +10,8 @@ const ListTasks=()=>{
        <div >
          <div className="ee">
          <button className="tt" onClick={()=>setNavtasks("ALL")}>ALL</button>
-         <button className="tt" onClick={()=>setNavtasks("DONE")}>DONE</button>
-         <button className="tt" onClick={()=>setNavtasks("NOTDONE")}>NOtDONE</button>
+         <button className="pp" onClick={()=>setNavtasks("DONE")}>DONE</button>
+         <button className="vv" onClick={()=>setNavtasks("NOTDONE")}>NOtDONE</button>
          </div>
          
           {

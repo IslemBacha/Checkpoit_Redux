@@ -1,5 +1,5 @@
 *{
-  background-color: aqua;
+  background-color: lightgrey;
 }
 
 
@@ -20,6 +20,9 @@
   border-style: solid;
   margin-bottom: 15px;
   margin-top: 18px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius : 23px;
  
 }
 .aa{
@@ -28,13 +31,15 @@
   border-radius : 13px;
   width: 58px;
     height: 40px;
-    color: red;
+   
 
  
 }
 .zz{
   display: flex; 
   justify-content: center;
+  border-radius: 16px;
+  
   
 
 }
@@ -43,29 +48,59 @@
   border-radius : 13px;
   width: 58px;
     height: 40px;
-    color: red;
+    
 }
 .ee{
-  display: flex; 
+   display: flex;  
   justify-content: center;
+  background-color: black;
+  justify-content: space-around;
+   /* margin-left: 10px;  */
+    /* margin-right: 10px;  */
+  border-radius : 23px;
+  height: 50px;
+  margin-top: 5px;
 }
 .tt{
-  border-radius : 13px;
+  border-radius : 10px;
   width: 69px;
   height: 36px;
-  color: green;
+  background-color: aliceblue;
+  margin-top: 8px;
+  margin-left: 20px;
 }
 .hh{
   border-style: solid;
   width: 100px;
   height: 36px;
-  color: gold;
+  margin-left: 10px;
+  border-radius: 16px;
+  
 }
 .ss{
   border-radius : 13px;
   width: 58px;
     height: 40px;
-    color: red;
+    
 
+}.jj{
+  
+  border-radius: 16px;
+  
+}
+.pp{
+  border-radius : 10px;
+  width: 69px;
+  height: 36px;
+  background-color: aliceblue;
+  margin-top: 8px;
+
+}
+.vv{
+  border-radius : 10px;
+  width: 69px;
+  height: 36px;
+  background-color: aliceblue;
+  margin-top: 8px;
 }
 
